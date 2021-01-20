@@ -4,7 +4,7 @@
 - 🌱 I’m addicting to learning and growing every day
 - 👯 I’m looking for my future colleagues : [More than 30 open positions in 2021 🔥](https://www.welcometothejungle.com/fr/companies/shipup)
 - 💬 Ask me about daily life, tech challenges and roadmap @Shipup
-- 📫 How to reach me: qvervialle@gmail.com | +33 6 59 01 00 79
+- 📫 How to reach me: quentin.vervialle@shipup.co | +33 6 59 01 00 79
 - ⚡ Hobbies : CrossFit, video games, new technologies, personal development
 - 📭 How to find me : 
   
