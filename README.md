@@ -1,16 +1,10 @@
 ### Hi there. I'm Quentin 👋
 
 - 🔭 I’m working for Shipup, a Paris based SaaS platform on a mission to transform post-purchase experience in e-commerce 
-- 🌱 I’m addicting to learning and growing every day
-- 👯 I’m looking for my future colleagues : [More than 30 open positions in 2021 🔥](https://www.welcometothejungle.com/fr/companies/shipup)
-- 💬 Ask me about daily life, tech challenges and roadmap @Shipup
 - 📫 How to reach me: quentin.vervialle@shipup.co
-- ⚡ Hobbies : CrossFit, video games, new technologies, personal development
 - 📭 How to find me : 
   
   ° :bulb: [Linkedin](https://www.linkedin.com/in/quentinvervialle/)
-  
-  ° :speaker: [Twitter](https://twitter.com/Qvervialle)
   
   ° :pencil2: [Medium](https://medium.com/@qvervialle)
 <!--
